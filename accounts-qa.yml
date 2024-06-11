@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to Lvgod accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "Mr King Zda - QA Lead"
+    email: "king.zda@eazybank.com"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - (0031) 265-444-3765
+    - (0031) 734-555-8371
