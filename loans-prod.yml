@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Lvgod loans releated products APIs"
+  message: "Welcome to Lvgod loans releated production APIs"
   contactDetails:
     name: "Sanny Panny - Product Manager"
     email: "sanny.panny@lvgod.nl"
