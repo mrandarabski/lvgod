@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Lvgod cards related production APIs "
+  message: "Welcome to Lvgod cards related prod APIs "
   contactDetails:
     name: "Mike Janson - developer"
     email: "mike_janson@lvgod.nl"
